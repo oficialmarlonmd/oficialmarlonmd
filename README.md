@@ -3,7 +3,6 @@
 🌱 Atualmente estou aprendendo visualização de dados avançada, storytelling com dados e técnicas de machine learning.
 💞️ Estou buscando colaborar em projetos de código aberto voltados para dados, estudos analíticos e aplicações inovadoras em Python e Power BI.
 📫 Como me encontrar: Conecte-se comigo no LinkedIn linkedin.com/in/marlonmarquesmdm/ ou envie um e-mail para marlon.marques.mmd@gmail.com
-😄 Pronomes: Ele/Dele
 ⚡ Curiosidade: Sou apaixonado por transformar números em histórias significativas que podem impactar decisões.
 
 <!---
