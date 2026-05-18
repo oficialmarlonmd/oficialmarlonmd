@@ -29,12 +29,14 @@
 ![NLTK](https://img.shields.io/badge/NLTK-154F7B?style=for-the-badge&logo=python&logoColor=white)
 
 🧠 Artificial Intelligence, GenAI & RAG
+
 ![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google-bard&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 🐧 DevOps & Infra
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
