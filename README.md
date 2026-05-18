@@ -1,4 +1,4 @@
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C896¢er=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Marlon!+%F0%9F%91%8B;Cientista+de+Dados+Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C896¢er=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Marlon!+%F0%9F%91%8B;Cientista+de+Dados+Dev+Full+Stack;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oficialmarlonmd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
